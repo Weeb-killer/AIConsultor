@@ -30,8 +30,8 @@ def get_zhipuai_response(prompt):
         answer = response.choices[0].message.content
     except:
         answer = "System Error."
-    pass
-    return "answer"
+
+    return answer
 
 
 # def output():
