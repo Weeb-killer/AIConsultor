@@ -15,7 +15,7 @@ def home():
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
-    return str(AIBOT.get_chatgpt_response(userText))
+    return str(AIBOT.get_zhipuai_response(userText))
 
 if __name__ == "__main__":
     app.run()
