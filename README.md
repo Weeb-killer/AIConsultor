@@ -7,7 +7,7 @@ pip install flask
 ```
 
 ```
-pip install openai
+pip install zhipuai
 ```
 
 
