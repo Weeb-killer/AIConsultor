@@ -1,0 +1,5 @@
+flask
+zhupuai
+python-dotenv
+langchain_community
+langchain

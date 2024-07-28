@@ -2,12 +2,14 @@
 
 ## Make sure you have
 
-```
-pip install flask
-```
+**flask zhupuai python-dotenv langchain_community langchain**
+
+
+
+### If you don't have, plz run
 
 ```
-pip install openai
+pip install -r requirements.txt
 ```
 
 
